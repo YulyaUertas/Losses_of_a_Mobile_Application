@@ -1,9 +1,16 @@
-# Analysis-of-losses-for-the-ProcrastinatePRO-application
-Analysis of losses for the ProcrastinatePRO+ /Анализ убытков приложения ProcrastinatePRO+ 
+# Анализ убытков приложения ProcrastinatePRO+
 
-Task for a marketing analyst of the Procrastinate Pro+ entertainment application. Despite significant investments in advertising, 
-the company has been incurring losses for the past few months. Our task is to identify the reasons and help the company turn a profit.
+## Задачи проекта
+Задача для маркетингового аналитика развлекательного приложения Procrastinate Pro+. 
+Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки.
+Наша задача — разобраться в причинах и помочь компании выйти в плюс.
 
-Data analysis from ProcrastinatePRO+ has been conducted. Various metrics have been calculated, including cohort analysis: LTV, CAC, 
-Retention rate, DAU, WAU, MAU, and so on. Previously written metric calculation functions have been utilized. 
-Appropriate conclusions have been drawn from the obtained data.
+## Описание проекта
+Проведен анализ данных от ProcrastinatePRO+.
+Рассчитаны различные метрики, использован когортный анализ: 
+LTV, CAC, Retention rate, DAU, WAU, MAU и т.д.
+Использованы уже написанные ранее функции расчёта метрик. 
+Сделаны правильные выводы по полученным данным.
+
+## Навыки и инструменты 
+Matplotlib, Seaborn, когорный анализ, юнит-экономика, продуктовые метрики
